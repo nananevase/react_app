@@ -1,34 +1,49 @@
-# React JS Landing Page Template
+# Landing Page React Template
 
-**
+This project is a React-based landing page template. It is designed to be a starting point for creating a beautiful and responsive landing page for your website.
 
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
+## Table of Contents
 
-**
+- [Demo](#demo)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
 
+## Demo
 
-### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
+You can view a live demo of this project at [https://nananevase.github.io/react_app](https://nananevase.github.io/react_app).
 
-## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+## Features
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
+- Responsive design
+- Smooth scrolling
+- Contact form with EmailJS integration
+- Easy to customize
+- Clean and modern design
 
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
-If you need the contact form to work, you also need to create an EmailJS account, and modify the ```src/components/contact.jsx``` file to replace your own service ID, template ID and Public Key
+## Installation
 
-## Like this project?
-<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
+To install and run this project locally, follow these steps:
 
-## Credits
-##### Free CSS 
-<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
+1. **Clone the repository:**
 
-##### Issaaf kattan
+    ```bash
+    git clone https://github.com/nananevase/react_app.git
+    cd react_app
+    ```
+
+2. **Install the dependencies:**
+
+    ```bash
+    yarn install
+    ```
+
+## Usage
+
+To start the development server, run:
+
+```bash
+yarn start
